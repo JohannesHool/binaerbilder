@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f40c5cee38eb2e58e525485cc6c8bd0",
+    "revision": "60aab3e19d7770fbcb40ba3958d66e58",
     "url": "/binaerbilder/index.html"
   },
   {
-    "revision": "6961480c1a01973b51c2",
+    "revision": "2d9a8af973e1c4889ff4",
     "url": "/binaerbilder/static/css/main.709070ff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/binaerbilder/static/js/2.4f610097.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6961480c1a01973b51c2",
-    "url": "/binaerbilder/static/js/main.6dab2dd2.chunk.js"
+    "revision": "2d9a8af973e1c4889ff4",
+    "url": "/binaerbilder/static/js/main.2e335e4f.chunk.js"
   },
   {
     "revision": "97d4da1fd4b116956558",
