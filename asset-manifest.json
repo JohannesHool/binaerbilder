@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/binaerbilder/static/css/main.709070ff.chunk.css",
-    "main.js": "/binaerbilder/static/js/main.0a2df903.chunk.js",
-    "main.js.map": "/binaerbilder/static/js/main.0a2df903.chunk.js.map",
+    "main.js": "/binaerbilder/static/js/main.237e1c0c.chunk.js",
+    "main.js.map": "/binaerbilder/static/js/main.237e1c0c.chunk.js.map",
     "runtime-main.js": "/binaerbilder/static/js/runtime-main.0de21dd5.js",
     "runtime-main.js.map": "/binaerbilder/static/js/runtime-main.0de21dd5.js.map",
     "static/js/2.4f610097.chunk.js": "/binaerbilder/static/js/2.4f610097.chunk.js",
     "static/js/2.4f610097.chunk.js.map": "/binaerbilder/static/js/2.4f610097.chunk.js.map",
     "index.html": "/binaerbilder/index.html",
-    "precache-manifest.1d56ee4797dd3c2597fa22926f6c45b8.js": "/binaerbilder/precache-manifest.1d56ee4797dd3c2597fa22926f6c45b8.js",
+    "precache-manifest.938a4a7dd7cfcf1cbb1f039a912380a8.js": "/binaerbilder/precache-manifest.938a4a7dd7cfcf1cbb1f039a912380a8.js",
     "service-worker.js": "/binaerbilder/service-worker.js",
     "static/css/main.709070ff.chunk.css.map": "/binaerbilder/static/css/main.709070ff.chunk.css.map",
     "static/js/2.4f610097.chunk.js.LICENSE.txt": "/binaerbilder/static/js/2.4f610097.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0de21dd5.js",
     "static/js/2.4f610097.chunk.js",
     "static/css/main.709070ff.chunk.css",
-    "static/js/main.0a2df903.chunk.js"
+    "static/js/main.237e1c0c.chunk.js"
   ]
 }
